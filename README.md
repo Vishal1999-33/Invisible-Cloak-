@@ -59,4 +59,6 @@ Value works in conjunction with saturation and describes the brightness or inten
    
    high = np.array([179, 255, 255])
    
+**Note:- In order to find HSV values for other colors you can visit following site:-http://colorizer.org/
+   
 **_When you run the program wait for few seconds, let the webcam capture the background image. Then you can come inside the frame with your magical Cloak and be invisible._**
