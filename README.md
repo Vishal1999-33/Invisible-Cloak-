@@ -40,6 +40,8 @@ Saturation describes the amount of grey in a particular color, from 0 to 100 per
 
 Value works in conjunction with saturation and describes the brightness or intensity of the color, from 0–100 percent, where 0 is completely black, and 100 is the brightest and reveals the most color.
 
+**_To learn about the variations in HSV values of red color you can also visit:- http://hanzratech.in/2015/02/07/caveat-thresholding-hue-component.html_**
+
 # Other colors
 
 ## Blue color
