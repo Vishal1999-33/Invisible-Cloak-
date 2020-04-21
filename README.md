@@ -44,14 +44,17 @@ Value works in conjunction with saturation and describes the brightness or inten
 
 ## Blue color
    low_blue = np.array([94,80,2])
+   
    high_blue = np.array([126,255,255])
 
 ## Green color
    low_green = np.array([25, 52, 72])
+   
    high_green = np.array([102, 255, 255])
    
 ## Every color except white
    low = np.array([0, 42, 0])
+   
    high = np.array([179, 255, 255])
    
 **_When you run the program wait for few seconds, let the webcam capture the background image. Then you can come inside the frame with your magical Cloak and be invisible._**
